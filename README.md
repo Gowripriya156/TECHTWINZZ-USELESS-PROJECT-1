@@ -7,7 +7,7 @@ Team Members: Gowripriya M J / Rajiv Gandhi Institute of Technology, Kottayam
               Pavithra E K / Rajiv Gandhi Institute of Technology, Kottayam
 
 Project Description
-   This is a useless site with many funny sites they are usefully useless. Interacting and engaging activities. Activities named Gibberish translator, AI meme generator, Overthinker AI, Do nothing & The heartbreak whisperer will be there to entertain the user.
+   This is a useless but entertaining site with many funny sites they are usefully useless. Interacting and engaging activities. Activities named Gibberish translator, AI meme generator, Overthinker AI, Do nothing & The heartbreak whisperer will be there to entertain the user.
 
 The problem: How to waste time effectively?
 
