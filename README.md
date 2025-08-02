@@ -16,12 +16,13 @@ The solution: Do nothing without getting bored.
 Techincal details:
 
 Languages used: Typescript, Javascript, CSS
+Frameworks: Next.js, React.js, TailwindCSS
+Tools: Lovable.ai , v0.dev , chatgpt, gemini
 
 
+Implementation: 
+[https://vercel.com/gpmj2006-7947s-projects/v0-website-redirect-pages](https://vercel.com/gpmj2006-7947s-projects/v0-website-redirect-pages)
 
+Project Documentation:
 
-
-   
-Your project is live at:
-
-**[https://vercel.com/gpmj2006-7947s-projects/v0-website-redirect-pages](https://vercel.com/gpmj2006-7947s-projects/v0-website-redirect-pages)**
+Screenshots
