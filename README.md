@@ -15,6 +15,9 @@ The solution: Do nothing without getting bored.
 
 Techincal details:
 
+Languages used: Typescript, Javascript, CSS
+
+
 
 
 
